@@ -1,2 +1,2 @@
-# CV
-INI PRAKTER MEMBUAT CV
+# Belajar Ngoding
+Ini UNtuk Saya MengUpload Hasil Codingan Saya
