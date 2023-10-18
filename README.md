@@ -1,2 +1,2 @@
 # Belajar Ngoding
-Ini UNtuk Saya MengUpload Hasil Codingan Saya
+Ini Untuk Saya MengUpload Hasil Codingan Saya
